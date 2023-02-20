@@ -4,13 +4,14 @@ Breve introducción sobre ti.
 
 ## Experiencia
 
-- Lista de trabajos anteriores y responsabilidades.
-- Proyectos destacados y logros.
+- Profesional regional en Fundación PRODEMU O'Higgins.
+- Gestión de programas sociales y anàlisis de evlauaciones de programas.
 
 ## Educación
 
-- Títulos obtenidos.
-- Instituciones educativas y fechas de graduación.
+- Sociólogo Universidad de Concepción.
+- Diplomado en evaluación social de proyectos.
+- Diplomado en gestión de políticas sociales.
 
 ## Habilidades
 
