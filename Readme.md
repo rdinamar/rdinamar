@@ -12,6 +12,7 @@ Breve introducción sobre ti.
 - Sociólogo Universidad de Concepción.
 - Diplomado en evaluación social de proyectos.
 - Diplomado en gestión de políticas sociales.
+- Diplomado en Data Science.
 
 ## Habilidades
 
