@@ -20,8 +20,21 @@ Actualmente, estoy enfocado en la creación de modelos predictivos y en la imple
 
 ## Habilidades
 
-- Lista de habilidades y competencias.
-- Nivel de experiencia en cada habilidad.
+### Habilidades Técnicas
+* Análisis de datos cuantitativos y cualitativos.
+* Utilización de herramientas para el análisis de datos: R y Python.
+* Utilización de herramientas para reporte y visualización de datos: Power BI y Looker.
+* Automatización de reportes.
+* Desarrollo de modelos prodictivos para la toma de decisiones.
+* Evaluación de proyectos.
+* Analisis de políticas públicas.
+  
+### Habilidades Blandas
+* Comunicación efectiva.
+* Pensamiento crítico.
+* Colaboración y trabajo en equipo.
+* Orientación a resultados.
+* Capacidad de aprendizaje continuo.
 
 ## Intereses
 
@@ -31,5 +44,5 @@ Actualmente, estoy enfocado en la creación de modelos predictivos y en la imple
 ## Contacto
 
 - Correo electrónico: rdinamar@gmail.com
-- 
+- Perfil en Linkedln: www.linkedin.com/in/rdinamar 
 
