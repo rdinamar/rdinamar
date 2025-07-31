@@ -9,7 +9,7 @@ Actualmente, estoy enfocado en la creación de modelos predictivos y en la imple
 ## Experiencia
 
 - Profesional regional en Fundación PRODEMU - Región de O'Higgins.
-- Gestión de programas sociales y anàlisis de evlauaciones de programas.
+- Gestión de programas sociales y anàlisis de evaluaciones de programas.
 
 ## Educación
 
