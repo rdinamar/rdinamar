@@ -25,7 +25,7 @@ Actualmente, estoy enfocado en la creación de modelos predictivos y en la imple
 * Utilización de herramientas para el análisis de datos: R y Python.
 * Utilización de herramientas para reporte y visualización de datos: Power BI y Looker.
 * Automatización de reportes.
-* Desarrollo de modelos prodictivos para la toma de decisiones.
+* Desarrollo de modelos predictivos para la toma de decisiones.
 * Evaluación de proyectos.
 * Analisis de políticas públicas.
   
